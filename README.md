@@ -6,13 +6,34 @@ MyISHRM is a comprehensive Student Information System designed for the Internati
 
 ---
 
-## 🌐 System Access
+## System Access
 
 **Portal URL:** [https://myishrm.flatwire.io](https://myishrm.flatwire.io)
 
 ---
 
-## 🔑 Test Accounts
+## Enrollment Workflow
+
+New to MyISHRM? Start here to understand how enrollment works.
+
+**[View the Complete Enrollment Workflow](enrollment-workflow.md)**
+
+The enrollment process follows 5 steps:
+
+```
+APPLICANT → ADMISSION → APPLICANT → ACCOUNTING → REGISTRAR
+ (Apply)    (Approve)    (Pay)      (Verify)    (Convert)
+```
+
+1. **Applicant** submits application online
+2. **Admission** reviews and approves, generates invoice
+3. **Applicant** pays and uploads payment proof
+4. **Accounting** verifies the payment
+5. **Registrar** converts applicant to student
+
+---
+
+## Test Accounts
 
 For testing and training purposes, use these credentials:
 
@@ -26,16 +47,16 @@ For testing and training purposes, use these credentials:
 | **Faculty** | faculty@ishrm.edu.ph | facultyfaculty |
 | **Student** | student@ishrm.edu.ph | studentstudent |
 
-⚠️ **Important:** These are test accounts for training purposes only. Change passwords in production.
+**Important:** These are test accounts for training purposes only. Change passwords in production.
 
 ---
 
-## 📚 Documentation Sections
+## Documentation Sections
 
 ### For System Administrators
 Complete setup and management guides for system administrators.
 
-👉 **[System Administrator Guide](admin/system-admin-guide.md)**
+**[System Administrator Guide](admin/system-admin-guide.md)**
 - Initial system setup and superadmin access
 - Staff account management (Registrar, Dean, Admission, Accounting, Faculty)
 - College and academic program configuration
@@ -45,7 +66,7 @@ Complete setup and management guides for system administrators.
 ### For End Users
 User guides organized by role.
 
-👉 **[User Guides by Role](users/user-guides.md)**
+**[User Guides by Role](users/user-guides.md)**
 - **[Admission Officer Guide](users/admission-officer.md)** - Review applications, generate invoices
 - **[Accounting Staff Guide](users/accounting-staff.md)** - Verify payments, financial management
 - **[Registrar Guide](users/registrar.md)** - Convert applicants, manage enrollments
@@ -57,7 +78,7 @@ User guides organized by role.
 ### Payment & Admission Workflow
 Complete payment-gated admission process.
 
-👉 **[Payment & Admission Workflow](users/payment-workflow.md)**
+**[Payment & Admission Workflow](users/payment-workflow.md)**
 - Application submission and document upload
 - Admission review and invoice generation
 - Payment proof upload
@@ -66,7 +87,7 @@ Complete payment-gated admission process.
 
 ---
 
-## 🎯 Quick Start
+## Quick Start
 
 **For System Administrators:**
 1. Start with the [System Administrator Guide](admin/system-admin-guide.md)
@@ -85,7 +106,7 @@ Complete payment-gated admission process.
 
 ---
 
-## 🔐 User Roles
+## User Roles
 
 | Role | Primary Responsibility | Access Level |
 |------|----------------------|--------------|
@@ -100,7 +121,7 @@ Complete payment-gated admission process.
 
 ---
 
-## 📞 Support & Help
+## Support & Help
 
 **Common Issues:**
 - [Troubleshooting Guide](admin/troubleshooting.md)

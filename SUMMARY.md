@@ -1,6 +1,7 @@
 # Table of Contents
 
 * [Welcome](README.md)
+* [Enrollment Workflow](enrollment-workflow.md)
 
 ## Getting Started
 
