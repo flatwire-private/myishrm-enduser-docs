@@ -2,6 +2,45 @@
 
 * [Welcome](README.md)
 
+## Getting Started
+
+* [System Overview](users/system-overview.md)
+* [How to Login](users/how-to-login.md)
+
+## User Guides by Role
+
+* [User Guides Overview](users/user-guides.md)
+* [Applicant Guide](users/applicant.md)
+* [Student Guide](users/student.md)
+* [Faculty Guide](users/faculty.md)
+* [Dean Guide](users/dean.md)
+* [Admission Officer Guide](users/admission-officer.md)
+* [Registrar Guide](users/registrar.md)
+* [Accounting Staff Guide](users/accounting-staff.md)
+
+## Workflows
+
+* [Admission & Payment Workflow](users/payment-workflow.md)
+  * [Application Process](users/payment-workflow.md#step-1-admission-approval)
+  * [Invoice Generation](users/payment-workflow.md#step-1-admission-approval)
+  * [Payment Upload](users/payment-workflow.md#step-2-payment-upload)
+  * [Payment Verification](users/payment-workflow.md#step-3-payment-verification)
+  * [Student Conversion](users/payment-workflow.md#step-4-student-conversion)
+
+## Features
+
+* [Internal Messaging](users/features/messaging.md)
+* [Grading System](users/features/grading.md)
+* [Document Requests](users/features/document-requests.md)
+
+## Coming Soon
+
+* [Upcoming Features](users/upcoming-features.md)
+  * [Walk-In Enrollment](users/upcoming-features.md#walk-in-enrollment)
+  * [Faculty Assignments](users/upcoming-features.md#faculty-assignments)
+  * [Dashboard Customization](users/upcoming-features.md#dashboard-customization)
+  * [Account Restrictions](users/upcoming-features.md#account-restrictions)
+
 ## For System Administrators
 
 * [System Administrator Guide](admin/system-admin-guide.md)
@@ -11,26 +50,7 @@
 * [System Configuration](admin/system-configuration.md)
 * [Troubleshooting](admin/troubleshooting.md)
 
-## For End Users
-
-* [User Guides by Role](users/user-guides.md)
-* [Admission Officer Guide](users/admission-officer.md)
-* [Accounting Staff Guide](users/accounting-staff.md)
-* [Registrar Guide](users/registrar.md)
-* [Dean Guide](users/dean.md)
-* [Faculty Guide](users/faculty.md)
-* [Student Guide](users/student.md)
-* [Applicant Guide](users/applicant.md)
-
-## Payment & Admission Workflow
-
-* [Complete Payment Workflow](users/payment-workflow.md)
-  * [Application Process](users/payment-workflow.md#phase-1-application-submission)
-  * [Invoice Generation](users/payment-workflow.md#phase-2-application-review)
-  * [Payment Upload](users/payment-workflow.md#phase-3-payment-upload)
-  * [Accounting Verification](users/payment-workflow.md#phase-4-payment-verification)
-  * [Student Conversion](users/payment-workflow.md#phase-5-student-conversion)
-
-## Support & Help
+## Support
 
 * [Common Issues](users/common-issues.md)
+* [Contact Support](users/contact-support.md)

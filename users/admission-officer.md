@@ -5,19 +5,19 @@
 
 ---
 
-## 📋 Overview
+## Overview
 
 As an Admission Officer, you are responsible for:
-- ✅ Reviewing new applicant applications
-- ✅ Verifying all required documents are uploaded
-- ✅ Approving applications and generating invoices
-- ✅ Monitoring payment status
+- Reviewing new applicant applications
+- Verifying all required documents are uploaded
+- Approving applications and generating invoices
+- Monitoring payment status
 
 **Important:** You approve applications and generate invoices, but do NOT convert applicants to students. That is the [Registrar's](registrar.md) role after payment is verified.
 
 ---
 
-## 🔐 Login
+## Login
 
 1. Go to [https://myishrm.flatwire.io](https://myishrm.flatwire.io)
 2. Enter your admission officer credentials
@@ -25,7 +25,7 @@ As an Admission Officer, you are responsible for:
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 Your dashboard shows:
 - **Pending Applications** - Applications awaiting review
@@ -34,7 +34,7 @@ Your dashboard shows:
 
 ---
 
-## 🎯 Key Tasks
+## Key Tasks
 
 ### 1. Review Application
 
@@ -45,15 +45,15 @@ Your dashboard shows:
    - Personal information
    - Educational background
    - Uploaded documents (Valid ID, Birth Certificate, Transcript)
-4. Verify all documents are uploaded ✅
+4. Verify all documents are uploaded
 
 ---
 
 ### 2. Approve Application & Generate Invoice
 
 **Requirements:**
-- ✅ All required documents must be uploaded
-- ✅ Information must be complete
+- All required documents must be uploaded
+- Information must be complete
 
 **Steps:**
 1. From the application detail page, click **"Approve & Generate Invoice"**
@@ -70,10 +70,10 @@ Your dashboard shows:
    ```
 3. Review the total amount
 4. Click **"Generate Invoice"**
-5. ✅ Invoice created! Applicant receives invoice number
+5. Invoice created! Applicant receives invoice number
 
 **Result:**
-- Application status → **APPROVED**
+- Application status becomes **APPROVED**
 - Invoice generated with unique number (e.g., INV-2025-00001)
 - Applicant can now view invoice and pay
 
@@ -104,27 +104,27 @@ After generating an invoice, you can:
 2. See payment status card:
    - **Awaiting Payment** - Applicant hasn't paid yet
    - **Payment Uploaded** - Applicant uploaded proof, awaiting verification
-   - **Payment Verified** - Accounting verified payment ✅
+   - **Payment Verified** - Accounting verified payment
 
 **Note:** Only [Accounting Staff](accounting-staff.md) can verify payments.
 
 ---
 
-## ❌ Cannot Approve?
+## Cannot Approve?
 
 If you cannot approve an application, check:
 
 **Missing Documents:**
-- ✅ Valid ID uploaded?
-- ✅ Birth Certificate uploaded?
-- ✅ Transcript of Records uploaded?
-- ✅ 2x2 Photo uploaded?
+- Valid ID uploaded?
+- Birth Certificate uploaded?
+- Transcript of Records uploaded?
+- 2x2 Photo uploaded?
 
 System will block approval if documents are missing.
 
 ---
 
-## 🔄 Complete Workflow
+## Complete Workflow
 
 Your role in the complete process:
 
@@ -142,11 +142,11 @@ Applicant Pays & Uploads Proof
 [Registrar: Converts to Student]
 ```
 
-See complete [Payment & Admission Workflow](payment-workflow.md)
+See complete [Admission & Payment Workflow](payment-workflow.md)
 
 ---
 
-## 💡 Tips
+## Tips
 
 1. **Check Documents Carefully** - Verify documents are clear and readable
 2. **Invoice Items** - Confirm fees with school policy before generating invoice
@@ -155,7 +155,7 @@ See complete [Payment & Admission Workflow](payment-workflow.md)
 
 ---
 
-## ❓ Common Questions
+## Common Questions
 
 **Q: Can I edit an invoice after generating it?**
 A: No, invoices cannot be edited once generated. Contact your admin if there's an error.
@@ -171,12 +171,8 @@ A: Contact the applicant and ask them to re-upload clear documents before approv
 
 ---
 
-## 📞 Need Help?
+## Need Help?
 
+- [Admission & Payment Workflow](payment-workflow.md)
 - [Common Issues](common-issues.md)
 - [Contact Support](contact-support.md)
-- Email: support@ishrm.edu.ph
-
----
-
-**Portal:** [https://myishrm.flatwire.io](https://myishrm.flatwire.io)
