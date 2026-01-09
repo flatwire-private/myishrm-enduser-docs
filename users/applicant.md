@@ -21,7 +21,7 @@ As an applicant, you will:
 
 ### Step 1: Create Account
 
-1. Go to [https://myishrm.flatwire.io/apply](https://myishrm.flatwire.io/register)
+1. Go to [https://myishrm.flatwire.io/register](https://myishrm.flatwire.io/register)
 2. Click **"Apply Now"**
 3. Create your account:
    - Email address
