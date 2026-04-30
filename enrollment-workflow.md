@@ -48,7 +48,7 @@ MyISHRM uses a **5-step enrollment workflow** that involves multiple departments
 The enrollment process begins when you submit your application.
 
 **What you need to do:**
-1. Go to [https://myishrm.flatwire.io/apply](https://myishrm.flatwire.io/apply)
+1. Go to [https://myishrm.flatwire.io/applicant/register](https://myishrm.flatwire.io/applicant/register)
 2. Create an account with your email
 3. Complete the application form:
    - Personal information
@@ -60,6 +60,7 @@ The enrollment process begins when you submit your application.
    - Valid ID (government-issued)
    - Birth Certificate
    - Transcript of Records / Form 137
+   - Certificate of Good Moral Character
    - 2x2 ID Photo
 5. Submit your application
 
@@ -111,7 +112,7 @@ After approval, you need to pay the admission fees.
 5. Upload your payment proof:
    - Take a clear photo/scan of your receipt
    - Enter payment details (amount, date, reference number)
-   - Upload the file (JPEG, PNG, or PDF, max 5MB)
+   - Upload the file (JPEG, PNG, PDF, DOC or DOCX max 10MB)
 6. Submit for verification
 
 **What happens next:**
