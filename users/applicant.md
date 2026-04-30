@@ -30,75 +30,67 @@ As an applicant, you will:
 
 ---
 
-### Step 2: Fill Application Form
+### Step 2: Fill Application Form (8 Required Steps)
 
-Complete all sections:
+The application form has **8 sections** that must all be completed before you can submit. You can save and return at any time — your progress is preserved.
 
-**Personal Information:**
+**1. Personal Information**
 - Full name
-- Birth date
-- Gender
-- Civil status
-- Nationality
+- Birth date, gender, civil status, nationality
+- Complete home address (city, province, ZIP)
 - Contact number
 
-**Address:**
-- Complete home address
-- City, Province, Zip code
+**2. Course Selection**
+- Choose your desired program
+- Application type (Freshmen / Transferee / Returnee / Second Course)
+- Preferred start term
 
-**Educational Background:**
+**3. Educational Background**
 - Last school attended
 - Year graduated
-- Academic records
+- (For transferees / returnees) Previous college, units earned
 
-**Guardian Information:**
-- Guardian name
-- Relationship
-- Contact number
-- Occupation
+**4. Guardian & Emergency Contact**
+- Guardian name, relationship, contact number, occupation
+- Emergency contact name, relationship, contact number
 
-**Emergency Contact:**
-- Contact person name
-- Contact number
-- Relationship
+**5. Health Record** *(required)*
+- Medical history, allergies, ongoing conditions
+- Mental health history (if applicable)
+- Preferred hospital and physician
 
-**Program Selection:**
-- Choose your desired program
-- Select application type (New/Transferee/Returnee)
-
----
-
-### Step 3: Upload Documents
-
-**Required Documents:**
-- Valid ID (Government-issued)
+**6. Document Upload** *(required unless your school has disabled this step)*
+- Valid government-issued ID
 - Birth Certificate
 - Transcript of Records / Form 137
 - 2x2 ID Photo
+- Format: JPEG, PNG, or PDF — max 5MB per file
 
-**How to Upload:**
-1. Go to **"Documents"** section
-2. Click **"Upload"** for each document
-3. Select file from your device
-4. Wait for upload to complete
+**7. Agreements** *(required)*
+- Enrollment Checklist & Data Privacy Statement — must be agreed
+- Refund Policy — must be agreed
 
-**File Requirements:**
-- Format: JPEG, PNG, or PDF
-- Max size: 5MB per file
-- Clear and readable
+**8. Review & Submit**
+- Final review of everything you entered
+- Pre-Registration Form (PRF) preview
 
----
-
-### Step 4: Submit Application
-
-1. Review all information
-2. Make sure all documents are uploaded
-3. Click **"Submit Application"**
-4. Note your **Application Number** (e.g., APP-2026-00001)
+> ⚠️ **All 8 steps must be complete.** If any are missing, the system will block submission and show you exactly what's left. You cannot skip Health Record or Agreements.
 
 ---
 
-### Step 5: Wait for Review
+### Step 3: Submit Application
+
+1. From the dashboard, click **"Step 3: Submit"** once all sections show as complete
+2. Review the application summary
+3. Read and check the **Terms and Conditions** box
+4. Click **"Submit Application"**
+5. Note your **Application Number** (e.g., APP-2026-00001)
+
+> 🔒 **After submission, your form becomes read-only.** You can review what you submitted but cannot make changes. If updates are needed, the Admission Office will set your application to "Request Change" status, which unlocks the form temporarily for you to edit.
+
+---
+
+### Step 4: Wait for Review
 
 After submission:
 1. Admission Officer reviews your application
@@ -116,7 +108,7 @@ After submission:
 
 ---
 
-### Step 6: Pay Admission Fees
+### Step 5: Pay Admission Fees
 
 **When Approved:**
 1. Login to your applicant portal
@@ -134,7 +126,7 @@ After submission:
 
 ---
 
-### Step 7: Upload Payment Proof
+### Step 6: Upload Payment Proof
 
 **After Paying:**
 1. Go to **"Payment"** section
@@ -149,7 +141,7 @@ After submission:
 
 ---
 
-### Step 8: Wait for Verification
+### Step 7: Wait for Verification
 
 - Accounting staff will verify your payment
 - This usually takes 1-2 business days
@@ -164,7 +156,7 @@ After submission:
 
 ---
 
-### Step 9: Become a Student
+### Step 8: Become a Student
 
 **After Payment Verified:**
 1. Registrar converts you to a student
@@ -202,7 +194,13 @@ A: Usually 1-3 business days after complete submission.
 A: Re-upload a clearer copy. Check email for specific issues.
 
 **Q: Can I edit my application after submitting?**
-A: Contact the Admission Office for corrections.
+A: No. Once submitted, the form is locked and becomes read-only. If corrections are needed, contact the Admission Office — they can mark your application as "Request Change", which temporarily unlocks the form so you can update it and resubmit.
+
+**Q: The dashboard says my form is "complete" but I haven't submitted — can I still edit?**
+A: Yes. Until you click **Submit Application**, you can keep going back to any of the 8 form steps to make changes. The form only locks after you actually submit.
+
+**Q: Why does the system say "Health Record is required" or "Agreement is required"?**
+A: All 8 form sections are required. Step 5 (Health Record) and Step 7 (Agreements) are common ones applicants miss. Use the **Back** and **Next** buttons in the application form to return to those sections and complete them.
 
 **Q: What's the payment deadline?**
 A: Check your invoice for the due date (usually 7 days).
