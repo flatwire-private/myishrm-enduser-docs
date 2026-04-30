@@ -54,6 +54,29 @@ For testing and training purposes, use these credentials:
 
 ---
 
+## Seeding Demo / Test Data
+
+Need realistic data for a demo or training session? The Admin Dashboard includes a **Test Data Management** card that seeds the system in one click.
+
+**Quick start:**
+1. Login as Super Admin (`superadmin@ishrm.edu.ph` / `ISHRMAdmin2025!`) or Admin
+2. Open the **Admin Dashboard** → scroll to **Test Data Management**
+3. Click **Seed Test Data** and wait ~1 minute
+
+**What gets created:** 60 students, 8 faculty, 10 applicants, 60 enrollments, 840 grades, 45 payments, plus colleges, courses, subjects, dean queue entries, document requests, and clearances.
+
+**Login as a seed user:**
+| | |
+|---|---|
+| Email pattern | `seed-<role>-<index>@ishrm.test` (e.g., `seed-student-001@ishrm.test`) |
+| Password (all seed accounts) | `SeedPassword123!` |
+
+**Cleaning up:** Click **Purge Seed Data** in the same card. It only removes records matching `seed-*@ishrm.test` — real accounts are untouched.
+
+**Full instructions:** see [System Administrator Guide → Test Data Management](admin/system-admin-guide.md#test-data-management-seed--purge).
+
+---
+
 ## Documentation Sections
 
 ### For System Administrators

@@ -169,6 +169,90 @@ Before the system can be used, admin must:
 
 ---
 
+## Test Data Management (Seed & Purge)
+
+For demos, training sessions, and QA testing, the admin dashboard includes a **Test Data Management** card that populates the database with realistic test data in a single click — and removes it just as cleanly when you're done.
+
+### Where to find it
+
+**Navigation:** Login as Super Admin or Admin → **Admin Dashboard** → scroll down to the **"Test Data Management"** card.
+
+### What gets seeded
+
+Clicking **"Seed Test Data"** creates the following in one batch:
+
+| Entity | Count |
+|--------|-------|
+| Colleges | 2 |
+| Courses | 4 |
+| Subjects | 30 |
+| Academic years | 1 |
+| Faculty | 8 |
+| Students | 60 |
+| Enrollments | 60 |
+| Enrollment items | 360 |
+| Grades | 840 |
+| Student financial accounts | 55 |
+| Assessments | 330 |
+| Payments | 45 |
+| Payment plans | 10 |
+| Applicants | 10 |
+| Dean queue entries | 8 |
+| Document requests | 15 |
+| Clearances | 20 |
+
+> **Total seed users: 68** (60 students + 8 faculty) plus 10 applicants.
+
+### Seed account credentials
+
+All seeded users share **one password** for convenience:
+
+| Field | Value |
+|-------|-------|
+| Email pattern | `seed-<role>-<index>@ishrm.test` |
+| Example student | `seed-student-001@ishrm.test` |
+| Example faculty | `seed-faculty-003@ishrm.test` |
+| Password (all seed accounts) | `SeedPassword123!` |
+
+### How to seed
+
+1. Login as Super Admin (`superadmin@ishrm.edu.ph`) or Admin
+2. Open the Admin Dashboard
+3. Find the **Test Data Management** card
+4. Click **"Seed Test Data"**
+5. Wait ~1 minute (the operation creates ~2,500 rows across 19 tables — the button stays disabled while it runs)
+6. On success, the panel shows "Seed data active: 68 users, 10 applicants" with a green confirmation listing all entity counts
+
+### How to purge
+
+When you're ready to remove test data:
+
+1. Open the Admin Dashboard → Test Data Management
+2. Click **"Purge Seed Data"**
+3. Confirm when prompted
+
+> **Purge is safe.** It only removes records whose email matches `seed-*@ishrm.test`. Real users, staff, students, and applicants are never affected.
+
+### When to use seed vs. purge
+
+| Scenario | Action |
+|----------|--------|
+| Setting up a demo for a new client | Seed |
+| Training new staff on the system | Seed |
+| Running through the full enrollment flow as QA | Seed |
+| Going live with real data | Purge first, then disable in production |
+| The dashboard looks "empty" during a screen share | Seed |
+| Tests are interfering with real workflows | Purge |
+
+### Important notes
+
+- **The seed/purge buttons require Admin or Super Admin role.** Other roles will get a 403 Forbidden.
+- **Do not seed data on a production environment with real users.** The seeded students will appear in registrar/faculty/dean dashboards alongside real ones.
+- **Seeding is idempotent in the sense that running it twice will not duplicate data** — the system checks for existing seed users before creating.
+- **If the button shows "Failed to seed data" but data still appeared:** the request may have timed out client-side while the backend kept working. Refresh the page; if seed users are visible in the status panel, the seed actually succeeded.
+
+---
+
 ## Staff Account Management
 
 ### Creating Staff Accounts
