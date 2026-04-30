@@ -37,7 +37,7 @@ APPLICANT → ADMISSION → APPLICANT → ACCOUNTING → REGISTRAR
 
 For testing and training purposes, use these credentials:
 
-| Role | Email | Password |
+| Role | Email/Student ID | Password |
 |------|-------|----------|
 | **Super Admin** | superadmin@ishrm.edu.ph | ISHRMAdmin2025! |
 | **Admin** | admin@ishrm.edu.ph | adminadmin |
@@ -46,7 +46,7 @@ For testing and training purposes, use these credentials:
 | **Admission** | admission@ishrm.edu.ph | admissionadmission |
 | **Accounting** | accounting@ishrm.edu.ph | accountingaccounting |
 | **Faculty** | faculty@ishrm.edu.ph | facultyfaculty |
-| **Student** | student@ishrm.edu.ph | studentstudent |
+| **Student** | 2024-00001 | studentstudent |
 
 **Important:** These are test accounts for training purposes only. Change passwords in production.
 
