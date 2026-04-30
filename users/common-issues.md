@@ -13,6 +13,13 @@ Quick solutions to frequently encountered issues.
 3. Check inbox for reset link
 4. Create new password (minimum 12 characters)
 
+### Admin: "Invalid credentials" for `admin@ishrm.edu.ph`
+**Cause:** The admin account exists in the user table but has no authentication record (commonly happens after partial seed/purge cycles).
+**Solution:**
+1. Log in with the Super Admin account instead: `superadmin@ishrm.edu.ph` / `ISHRMAdmin2025!`
+2. From the admin dashboard, re-create the admin user through user management, OR
+3. Ask your developer to re-run the seed step (which recreates `admin@ishrm.edu.ph` with password `adminadmin`)
+
 ### Email Not Verified
 **Error:** "Email not verified"
 **Solution:**

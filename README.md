@@ -39,6 +39,7 @@ For testing and training purposes, use these credentials:
 
 | Role | Email | Password |
 |------|-------|----------|
+| **Super Admin** | superadmin@ishrm.edu.ph | ISHRMAdmin2025! |
 | **Admin** | admin@ishrm.edu.ph | adminadmin |
 | **Registrar** | registrar@ishrm.edu.ph | registrarregistrar |
 | **Dean** | dean@ishrm.edu.ph | deandean |
@@ -48,6 +49,8 @@ For testing and training purposes, use these credentials:
 | **Student** | student@ishrm.edu.ph | studentstudent |
 
 **Important:** These are test accounts for training purposes only. Change passwords in production.
+
+> **Initial setup:** The Super Admin account (`superadmin@ishrm.edu.ph`) is created by `scripts/create_superadmin.py` during system bootstrap. It has full system access and can manage all other roles. **Change this password immediately after first login.**
 
 ---
 

@@ -106,15 +106,23 @@ MyISHRM is a comprehensive Student Information System (SIS) that manages the com
 
 ### 1. Initial System Access
 
-**Default Admin Account:**
+**Super Admin Account (created during bootstrap):**
+- **Email**: `superadmin@ishrm.edu.ph`
+- **Password**: `ISHRMAdmin2025!`
+- Created by `scripts/create_superadmin.py`. Full unrestricted system access.
+
+**Test Admin Account (for training):**
 - **Email**: `admin@ishrm.edu.ph`
-- **Password**: `adminadmin` (or as configured in seed data)
+- **Password**: `adminadmin`
+- Standard admin role — most administrative tasks. Use this for day-to-day staff training.
 
 **First Login Steps:**
 1. Navigate to: `https://myishrm.flatwire.io` (or your configured domain)
-2. Enter admin credentials
-3. **IMPORTANT**: Change default password immediately
+2. Enter the Super Admin credentials above
+3. **IMPORTANT**: Change the default password immediately after first login
 4. Enable MFA (Multi-Factor Authentication) if available
+
+> **Note:** If `admin@ishrm.edu.ph` cannot log in, the auth record may be missing (the account exists in user records but Supabase Auth has no password). Use the Super Admin account, then re-create the admin via the user management screen, or re-run the seed-data step from the Super Admin dashboard.
 
 ### 2. Admin Dashboard Overview
 
