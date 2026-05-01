@@ -11,7 +11,10 @@ As an Admission Officer, you are responsible for:
 - Reviewing new applicant applications
 - Verifying all required documents are uploaded
 - Approving applications and generating invoices
+- Registering walk-in applicants directly at the office
+- Scheduling and recording interviews
 - Monitoring payment status
+- Generating admission reports
 
 **Important:** You approve applications and generate invoices, but do NOT convert applicants to students. That is the [Registrar's](registrar.md) role after payment is verified.
 
@@ -143,6 +146,56 @@ Applicant Pays & Uploads Proof
 ```
 
 See complete [Admission & Payment Workflow](payment-workflow.md)
+
+---
+
+### 5. Register a Walk-In Applicant
+
+Use this when an applicant visits the school in person and has not completed the online application.
+
+**Steps:**
+1. Click **"Applications"** → **"Walk-In Registration"**
+2. Fill in the applicant's details:
+   - Full name, email, phone, birth date, gender
+   - Program selection
+   - Address, guardian, and educational background *(optional for walk-in)*
+3. Check **"Defer document submission"** if the applicant will submit documents later, and add notes
+4. Click **"Register Walk-In Applicant"**
+
+**Result:**
+- An application record is created with walk-in status
+- The applicant receives a reference number
+- You can proceed to generate an invoice immediately if needed
+
+---
+
+### 6. Manage Interviews
+
+Some applications may require an interview before approval.
+
+**Steps:**
+1. Click **"Interviews"** in the menu
+2. View applicants scheduled for interview
+3. To schedule an interview:
+   - Open the applicant's application
+   - Set interview date, time, and notes
+   - Application status changes to **Interview Scheduled**
+4. After the interview, record the outcome:
+   - **Interview Passed** — proceed to generate invoice
+   - Return to pending for further review if needed
+
+---
+
+### 7. View Reports
+
+**Steps:**
+1. Click **"Reports"** in the menu
+2. View admission statistics:
+   - Applications by status
+   - Applications by program
+   - Conversion rates (applied → approved → enrolled)
+   - Payment status summary
+3. Filter by date range or academic year
 
 ---
 

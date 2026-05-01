@@ -4,6 +4,18 @@ This guide shows you how to access the MyISHRM portal.
 
 ---
 
+## Which Login Page Do You Need?
+
+| If you are a... | Go to |
+|---|---|
+| **Student, Faculty, or Staff** | [https://myishrm.flatwire.io](https://myishrm.flatwire.io) |
+| **Applicant (applying for admission)** | [https://myishrm.flatwire.io/applicant/login](https://myishrm.flatwire.io/applicant/login) |
+| **New Applicant (first time)** | [https://myishrm.flatwire.io/applicant/register](https://myishrm.flatwire.io/applicant/register) |
+
+> **Note:** Applicants have a separate login from students and staff. If you have already been admitted and converted to a student, use the main portal login, not the applicant login.
+
+---
+
 ## Step-by-Step Login
 
 ### Step 1: Open the Portal
