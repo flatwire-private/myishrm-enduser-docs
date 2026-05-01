@@ -119,7 +119,7 @@ A: Messages are between sender and recipient only. Administrators may access mes
 A: You can delete messages from your inbox, but the recipient still has their copy.
 
 **Q: Is there a character limit?**
-A: Messages can be up to 5,000 characters.
+A: Messages can be up to 10,000 characters.
 
 **Q: Can I attach files?**
 A: File attachments are not currently supported. Share files through appropriate channels.
