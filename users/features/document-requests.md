@@ -72,6 +72,8 @@ Students can request various official documents through the portal. The Registra
 | **Ready** | Ready for pickup! |
 | **Released** | Already claimed |
 | **Unpaid** | Fee not yet paid |
+| **Rejected** | Request denied by Registrar (see reason) |
+| **Cancelled** | Request cancelled |
 
 ---
 

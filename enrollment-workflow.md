@@ -170,16 +170,27 @@ The Registrar converts you from applicant to student.
 
 ## Track Your Application Status
 
+**Application Status**
+
 | Status | What It Means | What To Do |
 |--------|---------------|------------|
 | **Pending** | Application submitted, awaiting review | Wait for Admission review |
 | **Under Review** | Being evaluated by Admission | Wait for decision |
-| **For Interview** | Interview scheduled | Attend your interview |
+| **Request Change** | Admission has asked you to update your form | Login and edit your application |
+| **For Interview** | You have been scheduled for an interview | Attend your interview |
+| **Interview Scheduled** | Interview date and time confirmed | Attend at the scheduled time |
+| **Interview Passed** | Interview complete; invoice will be generated | Wait for Admission to generate your invoice |
 | **Approved** | Accepted! Invoice generated | Pay and upload proof |
-| **Payment Pending** | Payment proof uploaded | Wait for verification |
-| **Payment Verified** | Payment confirmed by Accounting | Wait for conversion |
 | **Enrolled** | You're a student! | Login to Student Portal |
 | **Rejected** | Application not accepted | See rejection reason |
+
+**Payment Proof Status** *(shown separately once you are Approved)*
+
+| Status | What It Means | What To Do |
+|--------|---------------|------------|
+| **Pending Verification** | Payment proof uploaded | Wait for Accounting to verify |
+| **Verified** | Payment confirmed by Accounting | Wait for Registrar to convert you |
+| **Rejected** | Problem with your payment proof | Read the reason and re-upload |
 
 ---
 

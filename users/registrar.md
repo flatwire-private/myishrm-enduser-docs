@@ -13,6 +13,7 @@ As a Registrar, you can:
 - Process document requests
 - Set grading deadlines
 - Generate official documents (TOR, etc.)
+- Close the semester through the Semester Closure workflow
 
 ---
 
@@ -148,6 +149,35 @@ Your dashboard shows:
    - Guardian info
    - Medical conditions
 4. Click **"Save"**
+
+---
+
+### Semester Closure
+
+The Semester Closure workflow finalizes the academic semester — it consolidates clearance statuses from all departments before records are locked.
+
+**When to use:** At the end of each semester, after all grades have been submitted and verified.
+
+**Steps:**
+1. Click **"Semester Closure"** in the menu
+2. Select the academic year and semester to close
+3. Review the clearance summary:
+   - Students fully cleared (all departments)
+   - Students with pending clearances
+   - Students with conditional clearances
+4. Coordinate with Dean and Accounting to resolve any outstanding clearances
+5. Once all clearances are resolved, confirm the semester closure
+
+**Clearance Types reviewed during closure:**
+- Faculty clearance
+- Accounting (financial) clearance
+- Library clearance
+- Dean's office clearance
+- Registrar clearance
+- Student Affairs clearance
+- Property clearance
+
+See [Clearances](features/clearances.md) for full details on the clearance system.
 
 ---
 
