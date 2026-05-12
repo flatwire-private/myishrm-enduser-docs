@@ -151,6 +151,37 @@ Your dashboard shows:
 
 ---
 
+### View a Student's Academic History (with semester drill-down)
+
+On a student's detail page, the **Academic History** tab shows one row per semester they've enrolled — year level, semester, **Academic Year**, units, standing.
+
+**New: rows are clickable.** Click any semester row to expand an inline accordion showing the exact subjects enrolled in that semester:
+
+| Code | Title | Units | Grade | Status |
+|---|---|---|---|---|
+
+Each expanded view also shows a footer with:
+- Subject count and units earned (only subjects with grade ≤ 3.0 count)
+- Semester GWA (weighted by units, only graded subjects counted)
+
+Multiple semesters can be open at once — useful when comparing a student's standing across terms.
+
+---
+
+### View a Student's Permanent Record / Transcript
+
+On a student's detail page, the **Grades Transcript** tab shows the official Permanent Record. Each **Year Level** has its own block (e.g. "1st Year · AY 2024-2025") containing the FIRST and SECOND Semester tables side by side.
+
+**Academic Year is shown:**
+- On the year-level header (e.g. "1st Year · AY 2024-2025" or, when the year stretched across two AYs, "1st Year · AY 2024-2025 — 2025-2026").
+- On each semester sub-header (e.g. "FIRST Semester  AY 2024-2025").
+
+**The Permanent Record is immutable.** When a student enrolls in a subject, the system captures the subject's code, title, and units at that moment as a permanent **snapshot** on the enrollment record. If the Curriculum Committee later renames a subject or changes its units, the student's historical transcript does **not** silently change. What they enrolled in is what their record shows.
+
+> **Why this matters:** if a subject is renamed from "Mathematics in the Modern World" to "Discrete Math for Hospitality" later, a graduate's transcript still says "Mathematics in the Modern World" (the title that existed when they took it). This is correct behavior for an official record.
+
+---
+
 ## Common Questions
 
 **Q: Can I convert an applicant who hasn't paid?**

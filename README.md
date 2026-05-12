@@ -45,6 +45,7 @@ For testing and training purposes, use these credentials:
 | **Dean** | dean@ishrm.edu.ph | deandean |
 | **Admission** | admission@ishrm.edu.ph | admissionadmission |
 | **Accounting** | accounting@ishrm.edu.ph | accountingaccounting |
+| **Cashier** | cashier@ishrm.edu.ph | cashiercashier |
 | **Faculty** | faculty@ishrm.edu.ph | facultyfaculty |
 | **Student** | 2024-00001 | studentstudent |
 
@@ -94,7 +95,8 @@ User guides organized by role.
 
 **[User Guides by Role](users/user-guides.md)**
 - **[Admission Officer Guide](users/admission-officer.md)** - Review applications, generate invoices
-- **[Accounting Staff Guide](users/accounting-staff.md)** - Verify payments, financial management
+- **[Accounting Staff Guide](users/accounting-staff.md)** - Verify payments, run reports, approve voids
+- **[Cashier Guide](users/cashier.md)** - Payment of Fees screen, OR Transactions, print receipts
 - **[Registrar Guide](users/registrar.md)** - Convert applicants, manage enrollments
 - **[Dean Guide](users/dean.md)** - Manage courses, assign faculty
 - **[Faculty Guide](users/faculty.md)** - Submit grades, manage classes

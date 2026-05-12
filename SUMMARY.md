@@ -18,6 +18,7 @@
 * [Admission Officer Guide](users/admission-officer.md)
 * [Registrar Guide](users/registrar.md)
 * [Accounting Staff Guide](users/accounting-staff.md)
+* [Cashier Guide](users/cashier.md)
 
 ## Workflows
 
@@ -33,6 +34,7 @@
 * [Internal Messaging](users/features/messaging.md)
 * [Grading System](users/features/grading.md)
 * [Document Requests](users/features/document-requests.md)
+* [Accounting Reports](users/features/reports.md)
 
 ## Coming Soon
 

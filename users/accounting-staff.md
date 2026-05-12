@@ -7,12 +7,17 @@
 
 ## Overview
 
-As Accounting Staff, you can:
+As Accounting Staff (Accounting Officer / Manager), you can:
 - Verify payment proofs uploaded by applicants
 - Verify student tuition payments
 - View student payment history
 - Generate statements of account
 - Manage tuition fee configurations
+- **Run financial reports** (Account Receivables · Payment Summary · Daily Collection · Payment Summary Details) — see [Reports](features/reports.md)
+- **Approve or reject void requests** submitted by cashiers
+- Record payments yourself (via the same Payment of Fees screen cashiers use)
+
+If your school has a dedicated cashier at the window, that person uses the narrower **Cashier portal** — see the [Cashier Guide](cashier.md). You retain full visibility into everything they do.
 
 ---
 
@@ -27,6 +32,10 @@ As Accounting Staff, you can:
 ## Dashboard Overview
 
 Your dashboard shows:
+- **Total Collections** · **Outstanding Balance** · **Students with Balance** · **Today's Collections** (this card is **clickable** — opens the Payment Summary report for today)
+- **Recent Transactions** — latest verified payments
+- **Restricted Students** widget — students locked due to balance
+- **Quick Actions** — Payment of Fees · Payment Proofs · Student Accounts · Admission Invoices
 - **Pending Verifications** - Payments awaiting your review
 - **Verified Today** - Payments you've processed today
 - **Total Collections** - Summary of verified payments
@@ -134,6 +143,41 @@ Before verifying a payment, confirm:
 
 ---
 
+## Reports
+
+The **Reports** sidebar item gives you four financial reports — Payment Summary, Account Receivables per Student, Daily Collection (per College), Payment Summary Details. Each report supports CSV export and Print.
+
+Full reference: [Reports](features/reports.md).
+
+**Quick path from the dashboard:** click the **Today's Collections** stat card → opens the Payment Summary report filtered to today.
+
+---
+
+## Void Approval Queue
+
+When a cashier needs to void an OR transaction outside the 30-minute self-void window — or when they're voiding someone else's transaction — the system submits a **Void Request** to you for approval.
+
+**Path:** Accounting sidebar → **Void Requests** (under "Reports & Setup").
+
+You'll see a table with three tabs: **PENDING · APPROVED · REJECTED**.
+
+For each pending request:
+1. Review the OR #, student, amount, and the cashier's stated reason.
+2. Click **Approve** to apply the void (payment is marked voided; balance reversed on the student's account; voided row stays for audit).
+3. Or click **Reject** to leave the payment active. Add notes either way to record your reasoning.
+
+Approved voids are immediately reflected in the student's account and excluded from collection totals on reports.
+
+---
+
+## Recording Payments Yourself
+
+When the dedicated cashier is unavailable, you can record payments yourself through the same **Payment of Fees** screen the cashier uses (sidebar → **Payment of Fees**). Your sidebar stays the Accounting Manager sidebar; only the page in the middle is the focused single-screen flow.
+
+Full reference: [Cashier Guide → Recording a Payment](cashier.md#recording-a-payment-payment-of-fees).
+
+---
+
 ## Common Questions
 
 **Q: What if the amount paid is less than the invoice?**
@@ -143,10 +187,13 @@ A: You can verify partial payments. The remaining balance will show on the stude
 A: Once rejected, the applicant must upload a new proof. Contact admin if it was an error.
 
 **Q: How do I handle cash payments?**
-A: Cash payments made at the cashier should be recorded directly in the system.
+A: Cash payments made at the cashier should be recorded directly in the system via **Payment of Fees**.
 
 **Q: What if a refund is needed?**
 A: Refunds are processed manually. Coordinate with the admin for refund procedures.
+
+**Q: A cashier voided a payment by mistake. Can I undo it?**
+A: Voids are permanent records (we don't delete from the audit trail). If the void was wrong, record a fresh payment with a new OR # — note in the remarks that it replaces the voided OR.
 
 ---
 
