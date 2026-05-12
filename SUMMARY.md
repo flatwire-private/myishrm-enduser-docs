@@ -23,17 +23,19 @@
 ## Workflows
 
 * [Admission & Payment Workflow](users/payment-workflow.md)
-  * [Application Process](users/payment-workflow.md#step-1-admission-approval)
-  * [Invoice Generation](users/payment-workflow.md#step-1-admission-approval)
-  * [Payment Upload](users/payment-workflow.md#step-2-payment-upload)
-  * [Payment Verification](users/payment-workflow.md#step-3-payment-verification)
-  * [Student Conversion](users/payment-workflow.md#step-4-student-conversion)
+  * [Application Process](users/payment-workflow.md#step-1-application-submission)
+  * [Invoice Generation](users/payment-workflow.md#step-2-admission-approval)
+  * [Payment Upload](users/payment-workflow.md#step-3-payment-upload)
+  * [Payment Verification](users/payment-workflow.md#step-4-payment-verification)
+  * [Student Conversion](users/payment-workflow.md#step-5-student-conversion)
 
 ## Features
 
 * [Internal Messaging](users/features/messaging.md)
 * [Grading System](users/features/grading.md)
 * [Document Requests](users/features/document-requests.md)
+* [Assignments](users/features/assignments.md)
+* [Clearances](users/features/clearances.md)
 * [Accounting Reports](users/features/reports.md)
 
 ## Coming Soon

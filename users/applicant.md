@@ -64,7 +64,7 @@ The application form has **8 sections** that must all be completed before you ca
 - Birth Certificate
 - Transcript of Records / Form 137
 - 2x2 ID Photo
-- Format: JPEG, PNG, or PDF — max 5MB per file
+- Format: JPEG, PNG, PDF, DOC, DOCX — max 10MB per file
 
 **7. Agreements** *(required)*
 - Enrollment Checklist & Data Privacy Statement — must be agreed

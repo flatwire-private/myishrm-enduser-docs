@@ -13,6 +13,7 @@ As a Registrar, you can:
 - Process document requests
 - Set grading deadlines
 - Generate official documents (TOR, etc.)
+- Close the semester through the Semester Closure workflow
 
 ---
 
@@ -179,6 +180,35 @@ On a student's detail page, the **Grades Transcript** tab shows the official Per
 **The Permanent Record is immutable.** When a student enrolls in a subject, the system captures the subject's code, title, and units at that moment as a permanent **snapshot** on the enrollment record. If the Curriculum Committee later renames a subject or changes its units, the student's historical transcript does **not** silently change. What they enrolled in is what their record shows.
 
 > **Why this matters:** if a subject is renamed from "Mathematics in the Modern World" to "Discrete Math for Hospitality" later, a graduate's transcript still says "Mathematics in the Modern World" (the title that existed when they took it). This is correct behavior for an official record.
+
+---
+
+### Semester Closure
+
+The Semester Closure workflow finalizes the academic semester — it consolidates clearance statuses from all departments before records are locked.
+
+**When to use:** At the end of each semester, after all grades have been submitted and verified.
+
+**Steps:**
+1. Click **"Semester Closure"** in the menu
+2. Select the academic year and semester to close
+3. Review the clearance summary:
+   - Students fully cleared (all departments)
+   - Students with pending clearances
+   - Students with conditional clearances
+4. Coordinate with Dean and Accounting to resolve any outstanding clearances
+5. Once all clearances are resolved, confirm the semester closure
+
+**Clearance Types reviewed during closure:**
+- Faculty clearance
+- Accounting (financial) clearance
+- Library clearance
+- Dean's office clearance
+- Registrar clearance
+- Student Affairs clearance
+- Property clearance
+
+See [Clearances](features/clearances.md) for full details on the clearance system.
 
 ---
 

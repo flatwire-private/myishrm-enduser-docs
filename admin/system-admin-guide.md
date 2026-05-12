@@ -1,7 +1,7 @@
 # MyISHRM Student Information System - Complete User Guide
 
 **International School of Hospitality and Restaurant Management**
-**Version 2.0** | Last Updated: November 20, 2025
+**Version 2.1** | Last Updated: May 1, 2026
 
 ---
 
@@ -934,7 +934,7 @@ REJECTED PAYMENT FLOW
 
 **End of User Guide**
 
-**Document Version:** 2.0
-**Last Updated:** November 20, 2025
+**Document Version:** 2.1
+**Last Updated:** May 1, 2026
 **System:** MyISHRM Student Information System
 **Institution:** International School of Hospitality and Restaurant Management
